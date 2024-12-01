@@ -277,14 +277,14 @@ cd frontend
 npm install  
 npm start  
 
-Open the app in your browser at http://localhost:3000.
+Open the app in your browser at http://localhost:5173.
 
 	3.	Interact with the Contract:
 Use the frontend to connect your wallet, add subscriptions, and test cross-chain payments.
 
 Demo Video
 
-Check out our quick walkthrough here: [Demo Video Link]
+Check out our quick walkthrough here: 
 
 Developer Contact
 
